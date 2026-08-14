@@ -1,0 +1,6 @@
+{
+  "name": "Moventra",
+  "description": "Cross-platform AI fitness app with workout plans, nutrition tracker, progress analytics, community challenges, and AI personal trainer.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
